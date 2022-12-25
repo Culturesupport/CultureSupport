@@ -9,6 +9,11 @@ About Culture.Support
 
 - Been A Private Entity Sense We Saw Computers in 1996 and Enfolded Gathering Analysis 
 - Followed And Dual Finded Thousands of Applications Structures Around Internet 
+- Followed The Invention Updates and Other Fostering Upgrades Of Internet 
+- Followed The Computer Invention Upgrades in Mather Of Wearing and Body Techs 
+- Followed The Era Of How Fabrics in China Fostered And Bringed World Invention Possibilities
+- Followed The Era Of How Poor Communities Enables Get Out Of Powerty
+- Followed The Era Of How Education of Mostly Application Was Establishing Big Communities 
 - Knowlegdes Routes Trough Github , and Docker and Other Build Stack Routes on Internet.
 
 - Developer Magazines and Dozen Application Terminologies Behalf Of Fostering Opens Source Managements
