@@ -39,6 +39,26 @@ Its The Following Unified Umbrella Investigation Brings Millions In People Into 
 
 ----
 
+
+The Original Founder is Bearing Estimates Shedding Private Fortunes 
+
+Inhabitable Calculated Become  100 000 Trillions of _Dollars Each Days Since 2005
+
+Winning Proposals of A Wide Spectral Winning Daytimes Entrusted Reaching Endtime with Earth Life Status and Future Beyound
+
+We Securing The Economy Stays Shapped Bad for Other Persons
+
+And Making Culture.Support The Forever Future Winner 
+
+Owning The Most of The Most Possible Winrates Ever Possible Imagine in Future .
+
+Making All Other Persons Look Like Their Never Living According With Time.
+
+
+
+
+-------
+
 - The Education Foundation Rings 
 - The Community Forks 
 - The Invention Cycle Forums and Other Foundations Imploding Massive Communities Of Unique Skill Holders
