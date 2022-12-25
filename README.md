@@ -6,6 +6,19 @@ About Culture.Support
 - Maintaining Operations Regards Build Greater Non Profitt
 - Settling Up Private Projects And Analysis Build Inventions For Remarkable Post Grade Adobtions
 
+
+- Been A Private Entity Sense We Saw Computers in 1996 and Enfolded Gathering Analysis 
+- Followed And Dual Finded Thousands of Applications Structures Around Internet 
+- Knowlegdes Routes Trough Github , and Docker and Other Build Stack Routes on Internet.
+
+- Developer Magazines and Dozen Application Terminologies Behalf Of Fostering Opens Source Managements
+
+
+- We Investing 1000 Hour Year Efforts To Gather Resources on Internet Each Year 
+- Finding And Rebalancing Smooth Efforts Of Service A Future Prospect Sense No Mather Neeeds 
+
+- Commiting Atleast 1000 Hours Year Since 2005 To Bring Fundamental Knowlegde Priority On Internet. 
+
 ----------
 
 # Culture.Support
