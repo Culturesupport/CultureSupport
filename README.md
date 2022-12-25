@@ -62,3 +62,7 @@ Its The World 3rd Dangerous Work Environment
 --------------
 ----------
 
+Take Consideration Healthy Breaks 
+
+- You Reach Safely Do Thing Next Day Also 
+- You Reach Allways Have Breaks 
