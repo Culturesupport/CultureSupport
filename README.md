@@ -14,6 +14,7 @@ About Culture.Support
 - Followed The Era Of How Fabrics in China Fostered And Bringed World Invention Possibilities
 - Followed The Era Of How Poor Communities Enables Get Out Of Powerty
 - Followed The Era Of How Education of Mostly Application Was Establishing Big Communities 
+- Followed The Era Of Creative Digitalisations And How Color Screen Enables See Tech Futures 
 - Knowlegdes Routes Trough Github , and Docker and Other Build Stack Routes on Internet.
 
 - Developer Magazines and Dozen Application Terminologies Behalf Of Fostering Opens Source Managements
