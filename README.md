@@ -29,7 +29,16 @@ Docker Portainer : Use Portainer Together With Docker Container
 https://www.portainer.io/
 
 
+Kubernetes : run Stable Containers
 
+
+https://kubernetes.io/
+
+
+Helm : Package Manager Kubernetes 
+
+
+https://helm.sh/
 
 
 Jenkins Plugins : To Build Automations Pluginns
