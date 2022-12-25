@@ -79,3 +79,13 @@ We Are Not Wired into Using Long Time Computers
 - We Dont Want To Treat Anybody Bad
 - We Respect And Hope Your Healing
 - We Hope You Enable To Have Safe Day Livings 
+
+-------
+------
+
+We Demand You To Consider Take Your Freedom And Respect it 
+
+- Enable Freedom Away From Consumption and Stress
+- Enable Freedom To Live Safely 
+- Enable Freedom To Live With Self Respect 
+- Enable Freedom To Have A Safely Day 
