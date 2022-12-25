@@ -92,3 +92,4 @@ We Demand You To Consider Take Your Freedom And Respect it
 - Enable Freedom To Be Away From Slavery And Work 
 - Enable Freedom To Be Alive And Thrive
 - Enable Freedom To Become Your Freedom Dreams
+- Enable Fredom To Grow Home Food And Live Safely Healthy 
