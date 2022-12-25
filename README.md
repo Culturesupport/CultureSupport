@@ -25,6 +25,13 @@ https://www.portainer.io/
 
 
 
+
+
+Jenkins Plugins 
+
+
+https://plugins.jenkins.io/
+
 --------------
 ----------
 
