@@ -75,3 +75,7 @@ We Are Not Wired into Using Long Time Computers
 
 - We Dont Want To Stress People To Run And Reach
 - We Advice You To Consider Freedom Breaks 
+
+- We Dont Want To Treat Anybody Bad
+- We Respect And Hope Your Healing
+- We Hope You Enable To Have Safe Day Livings 
