@@ -40,6 +40,14 @@ https://plugins.jenkins.io/
 
 
 --------------
+
+
+##Local Developer Tests / Run MitmProxy
+
+
+https://mitmproxy.org/
+
+
 ----------
 
 
