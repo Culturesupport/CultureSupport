@@ -19,6 +19,24 @@ About Culture.Support
 
 - Commiting Atleast 1000 Hours Year Since 2005 To Bring Fundamental Knowlegde Priority On Internet. 
 
+- Rebalancing The Needs And Umbrella Science Projects Under The Behalf Of Future Foundations
+- Enabled Intervention Build A Own Governing System on Behalf Of Own Internal Ruling Purposals 
+- Is The Own True Culture Orginal Entity Envolving The Orginal Support Foundation 
+
+-----
+
+Its The Following Unified Umbrella Investigation Brings Millions In People Into The Beauty Of Internet Gathering
+
+- Making Millions Thrive To Become Unified Anywhere With Resources On Internet 
+- Finding Million Structures On Internett Each Years
+- Finding The Biggest Complex Internet Resources in Mather Of Chat and Other Communications Spectrums With Humans
+
+----
+
+- The Education Foundation Rings 
+- The Community Forks 
+- The Invention Cycle Forums and Other Foundations Imploding Massive Communities Of Unique Skill Holders
+
 ----------
 
 # Culture.Support
