@@ -66,3 +66,12 @@ Take Consideration Healthy Breaks
 
 - You Reach Safely Do Thing Next Day Also 
 - You Reach Allways Have Breaks 
+
+
+------
+--------
+
+We Are Not Wired into Using Long Time Computers 
+
+- We Dont Want To Stress People To Run And Reach
+- We Advice You To Consider Freedom Breaks 
