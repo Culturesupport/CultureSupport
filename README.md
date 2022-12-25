@@ -1,3 +1,13 @@
+
+About Culture.Support
+
+- A Private Foundation in Norway ,  Outside Society Rules
+- Instance Buid Applications On Web 
+- Maintaining Operations Regards Build Greater Non Profitt
+- Settling Up Private Projects And Analysis Build Inventions For Remarkable Post Grade Adobtions
+
+----------
+
 # Culture.Support
 
 
