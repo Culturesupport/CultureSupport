@@ -89,3 +89,6 @@ We Demand You To Consider Take Your Freedom And Respect it
 - Enable Freedom To Live Safely 
 - Enable Freedom To Live With Self Respect 
 - Enable Freedom To Have A Safely Day 
+- Enable Freedom To Be Away From Slavery And Work 
+- Enable Freedom To Be Alive And Thrive
+- Enable Freedom To Become Your Freedom Dreams
