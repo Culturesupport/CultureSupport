@@ -27,7 +27,7 @@ https://www.portainer.io/
 
 
 
-Jenkins Plugins 
+Jenkins Plugins : To Build Automations Pluginns
 
 
 https://plugins.jenkins.io/
