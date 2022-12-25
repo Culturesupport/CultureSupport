@@ -32,15 +32,16 @@ Jenkins Plugins : To Build Automations Pluginns
 
 https://plugins.jenkins.io/
 
+
+
+- This is Used To Build Images and Containers / Running Developer Instances
+
+
+
+
 --------------
 ----------
 
-This is Used To Build Images and Containers / Running Developer Instances
-
-
-
-
-//////////////
 
 
 Healthy User Advisory :
@@ -49,12 +50,15 @@ Healthy User Advisory :
 - Dont Hesitate Work Hard
 - Dont Stress About This 
 
-
--
--
+------
 
 Its The World 3rd Dangerous Work Environment
 
 - So You Need to Wisely Dont OverWork 
 - Stable Ensure Your Know The Risk
+- Consider Only Join if Your Know Risk
+
+
+--------------
+----------
 
