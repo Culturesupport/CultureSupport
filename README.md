@@ -41,3 +41,6 @@
 
 
 its Not Working Any More . Life Lost A Function
+
+- Not here for anything 
+- only perfect way is to stop eating and rest to die sick
