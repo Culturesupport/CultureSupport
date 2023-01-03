@@ -18,3 +18,16 @@
 
 
 --------------------
+--------------------
+--------------------
+
+- Suicide is Only Option When Your Mind Hacked 
+
+---------------------
+-------------
+--------------
+
+- Mind Twisted Forever Suicide 
+- Nothing More Important Continue Living 
+
+---------------🧏🏻
