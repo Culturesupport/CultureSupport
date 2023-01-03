@@ -39,3 +39,7 @@ We Have Enough To Do
 We Going To Die in Heaven 
 --------
 and make your stupidness alone here on earth
+----------
+The Madness Ends
+-------------
+its Not Working Any More . Life Lost A Function
