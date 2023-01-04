@@ -7,40 +7,19 @@
 
 ------------------
 
-- 📫 Stupid Stupid 
-- We Dont Need You
-
-
-
-- We Dont Eat More Food
-- We Dont Serve Food
-- We Stopped Plan Living
+- We Stopp Performed 
+- We Dont Doing Performance
+- The Business is Dead
 
 
 --------------------
 --------------------
 --------------------
 
-- Suicide is Only Option When Your Mind Hacked 
-
+- The Circumstanses around leader death is not dual to serve
 ---------------------
 -------------
 --------------
 
-- Mind Twisted Forever Suicide 
-- Nothing More Important Continue Living 
-
-🧏🏻
-
-
-- We Have Enough To Do 
-- We Going To Die in Heaven 
-- We Taking Suicide
-
-
-
-
-its Not Working Any More . Life Lost A Function
-
-- Not here for anything 
-- only perfect way is to stop eating and rest to die sick
+- there is not wanted to do something about it
+- please stay away
