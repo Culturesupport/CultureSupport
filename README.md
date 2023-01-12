@@ -9,3 +9,7 @@
 
 - Restore Human Life To A Plant and it will Grow 
 In Space to Breathe 🌱
+
+------------
+
+- The Space Plant Life Philosophy 🌱
