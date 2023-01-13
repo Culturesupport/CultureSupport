@@ -1,16 +1,18 @@
-### Hi there 👋 On Repository Writing Job
+
+
+### Security Updated 
 
 
 
 
 
 
-- 🔭 I’m currently Watching Stars 
+- 🔭 I’m Currently Watching Stars and Thunder 
 
 
-- 🤔 I’m Working Experience 300 Years
+- 🤔 Culture.Support
 
-- 📫 How to reach me: email
-- 😄 Pronouns: text 
-- ⚡ Fun fact: takes 300 years to Solve 
+ 
+- 😄 Pronouns: Chuiljture Shuwphoort
+- ⚡ Fun Fact : Entry Light Thunder
 
