@@ -102,6 +102,13 @@ Covid Waves Going
 Tear USA Down and Every Virus Going To Stopp
 life of Those Criminal Abusers From Criminal USA 
 
+Under Homo Names :
+
+Facebook
+Apple
+Microsoft
+Samsung
+Google 
 
 ----------
 
