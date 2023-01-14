@@ -39,7 +39,10 @@ And Steal and Abuse.
  Criminal Organisations.
 
 - They Never Paid us Commissions or Gave Us 
-Relation to Use Stuff They Scanned 
+Relation to Use Stuff They Scammed
+
+- Not Any Persons Are Respected Working There
+Because Their Suspected of Frauding Customers
 
 - But they served Schools and others criminal
 Frauders to continue abuse and Scam contents
