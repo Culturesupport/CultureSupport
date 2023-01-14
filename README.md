@@ -62,6 +62,15 @@ And Give All Others That should not have
 Something to do with it a Favour in Corruption
 Outcomes 
 
+
+- This Scam And Corruption Cases Almost
+Made me Loose The Ability to Live and
+Have My Personal Life Safe
+and Drive My Daily Habits
+
+- Its Almost Stacked me down to Commit Suicide
+For Non Persons Respected Not Abuse Us
+
 ------------
 
 
