@@ -104,11 +104,11 @@ life of Those Criminal Abusers From Criminal USA
 
 Under Homo Names :
 
-Facebook
-Apple
-Microsoft
-Samsung
-Google 
+- Facebook
+- Apple
+- Microsoft
+- Samsung
+- Google 
 
 ----------
 
