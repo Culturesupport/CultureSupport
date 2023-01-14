@@ -119,8 +119,13 @@ We Banned Forever Use of :
 - Google
 - Apple
 - Microsoft
+- Samsung
 
 ----------
 
 - Im Full Tollerancy Use Freedom of Speech
 - Freedom to Report Criminals 
+
+- All this Psychopathy Businesss Will Be Crime
+Reported to Stopp Abuse and Go Bust By Stopp
+Corruption Threating Me 
