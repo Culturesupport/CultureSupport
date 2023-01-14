@@ -92,9 +92,16 @@ We want shut them down for Thefting my company assets
 
 -----
 
-###Designer Apps 
+Want to See This Shit Heads Go Bust
+And Stop Working in Usa and STOP SCAMMING 
 
-Syndicate Design Free : its Not Possible Cost
+WE are Crime stopp them in Entire 
+2023
 
-https://penpot.app/
+Covid Waves Going
+Tear USA Down and Every Virus Going To Stopp
+life of Those Criminal Abusers From Criminal USA 
+
+
+----------
 
