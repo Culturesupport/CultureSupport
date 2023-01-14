@@ -17,7 +17,13 @@ Frauders is Monitored as :
 - Other Criminal Syndicate Business 
 
 - We Communicate Never with those
- Criminal Organisations , 
+ Criminal Organisations.
+
+- They Never Paid us Commissions or Gave Us 
+Relation to Use Stuff They Scanned 
+
+- But they served Schools and others criminal
+Frauders to continue abuse and Scam contents
 
 - They Never Helped Me Back Only Committed 
 To Abuse and Thefting A Services and Frauding
