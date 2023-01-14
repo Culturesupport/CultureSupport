@@ -51,7 +51,16 @@ Frauders to continue abuse and Scam contents
 To Abuse and Thefting A Services and Frauding
 Markets
 
+-------------
 
+- The Scams Went so Big ,
+ We did not Get order Things As Computers
+Or Any Things They Claimed on Site 
+
+- Fraud Was Abuse and Provocation Scam Market
+And Give All Others That should not have
+Something to do with it a Favour in Corruption
+Outcomes 
 
 ------------
 
