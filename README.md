@@ -1,13 +1,11 @@
 
 
 
----------------
+We Warn You Against Fraud 
 
-- 🔭 I’m Currently Watching Stars and Thunder 
-- 🤔 Culture.Support
-- 😄 Pronouns: Chuiljture Shuwphoort
-- ⚡ Fun Fact : Entry Light Thunder
-
+- We Shutting Down Domains
+interfeiring with content abuse and Fraud in 
+Relation with copy Fraud 
 ------------
 
 
