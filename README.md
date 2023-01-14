@@ -16,6 +16,25 @@ Frauders is Monitored as :
 - Microsoft
 - Other Criminal Syndicate Business 
 
+
+--------
+
+They are Crime Reported to Fbi For 
+Criminal Content Abuse Fraud and
+For Abuse And Serve Away Content they 
+dont own Legislation For
+
+
+- A Bigg Consultancy Fraud in Those Businesses
+Have Happened
+
+- A Swindle of Consumers in Wide Are
+ Intolerante Ways in Favor to Be Self Fish
+And Steal and Abuse.
+
+
+-------
+
 - We Communicate Never with those
  Criminal Organisations.
 
