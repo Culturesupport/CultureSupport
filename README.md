@@ -112,3 +112,15 @@ Under Homo Names :
 
 ----------
 
+We Banned Forever Use of :
+
+- Facebook
+- Meta 
+- Google
+- Apple
+- Microsoft
+
+----------
+
+- Im Full Tollerancy Use Freedom of Speech
+- Freedom to Report Criminals 
