@@ -71,8 +71,26 @@ and Drive My Daily Habits
 - Its Almost Stacked me down to Commit Suicide
 For Non Persons Respected Not Abuse Us
 
+
+This was the company im believe to Trust
+But im saw later they only abused and criminal
+Threats my Authority and Force to Live Safe 
+
+
++ This organization is now Stamped and Banned for
+Lifetime in Mather of Be Act as
+ Criminal Cartel Drugs Compute
+ Communication Rings
+
+- mutch setup to communicate and Spionage and
+Distribute Drugs Abuse and Communication trough
+Cartel business and Criminal Enterprises 
+
 ------------
 
+We want shut them down for Thefting my company assets
+
+-----
 
 ###Designer Apps 
 
