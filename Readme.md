@@ -8,16 +8,26 @@
 
 -------
 
+- Healing Netherland
+- Healing Spain
+- Healing Afghanistan 
+- Healing Poland
 
+- Healing Saudi Arabia 
+- Healing England 
+- Healing Ukraine
+- Healing Russia
+- Healing Sweden 
+- Healing Americans 
+- Healing Israels 
+- Healing Palestine
+- Healing Syria
 
-
-
-
-
-
-
-
-
+- Healing Italy 
+- Healing Greece
+- Healing Portugal 
+- Healing Argentina 
+- Healing Romania
 
 
 
