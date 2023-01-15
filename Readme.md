@@ -11,8 +11,18 @@
 
 Hvis Du Er Norsk Homo
 
-
+- Falske Kjeft Smelle Drit
 - Dra deg til Helvette
+- Upopulære Piss
+- Problem Freak idiot 
+
+------
+
+- Blir Mere Mas , Så Blir Alt Stengt og dere utblokkeres
+
+- Psykotiske Vrenge Ord Dritt 
+
+-----
 
 - Fjernet Homofile Liv
 - FjernerFjerner Norsk
@@ -29,6 +39,8 @@ Hvis Du Er Norsk Homo
 -----------
 
 
+
+# Prosjected Future 
 
 
  Docker Containers 
