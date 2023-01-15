@@ -3,12 +3,19 @@
 
 
 
-- 🔭 I’m currently working on ... Secure Stuff
-- 🌱 I’m currently Learning ... How To Learn
-- 👯 I’m looking to collaborate on ... Stay Over
-- 🤔 I’m looking for help with ... Collabrate
-- 💬 Ask me about ... Stay Over
-- 📫 How to reach me: ... in Bed 
-- 😄 Pronouns: ... Stayer  
-- ⚡ Fun fact: ... im Cum Over 
--->
+
+
+- 🪐 Planet 
+- ✝️ Christian 
+- 🙇‍♂️ Heal Psychic Health 
+- 🙇‍♀️ Heal Psychic Health 
+- 🧘 Heal With Meditate 
+- 🧘‍♂️ Heal With Meditation 
+- 👤 Heal With Monks 
+- 🧕 Belive on Good Religious 
+- 🦛 Let Animals Have Freedom 
+- 🧑‍🌾 Grow Safe Food 🌱🌿
+- 🏊 Swim in Healthy Water 
+- 🫰🤌👌 Mantra & Mudra Healing 
+- ☯️ Qi Gong & Thai Chi : Ying Yang
+- ☯️ Taoism & Daoism 
