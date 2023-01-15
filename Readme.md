@@ -9,34 +9,34 @@
 -------
 
 
-Hvis Du Er Norsk Homo
-
-- Falske Kjeft Smelle Drit
-- Dra deg til Helvette
-- Upopulære Piss
-- Problem Freak idiot 
-
-------
-
-- Blir Mere Mas , Så Blir Alt Stengt og dere utblokkeres
-
-- Psykotiske Vrenge Ord Dritt 
-
------
-
-- Fjernet Homofile Liv
-- FjernerFjerner Norsk
-
-- Dra Så Helvettes Vekk 
-
-- Sjuko Patiske Drit Trenger ikke her
-
-- ingen nordmenn i hele verden er mitt ansvar
 
 
-- dere skal aldri aldri aldri være her
 
------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
