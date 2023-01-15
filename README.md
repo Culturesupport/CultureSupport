@@ -13,3 +13,28 @@ Havne På Gata Fattig i Norge
 ------
 
 - Vi Arbeider For og Utmattende Trenere 
+
+------
+
+- Vi Arbeider For Skape Urealistiske Urettferdighet 
+
+----------
+
+- Vi Arbeider For Alkoholen Skal Drikke Bort Sorger 
+
+---------
+
+- Vi Arbeider For Sjuke Skal Være Krampe Syke 
+
+------
+
+- Vi Arbeider For Begravelse Og Død er den sikkre inntektene 
+
+------
+
+- Vi Arbeider For Alt Skal Bli Utdød og Ferdig 
+
+
+------
+
+- 
