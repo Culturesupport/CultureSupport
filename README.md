@@ -37,4 +37,6 @@ Havne På Gata Fattig i Norge
 
 ------
 
+- Vi Arbeider For Syke Dør og Sykdommer Sprer Som Rykter 
 - 
+- Vi Arbeider Hardt For At Du Skal Bli Oppfattet Syk
