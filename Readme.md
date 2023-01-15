@@ -9,6 +9,27 @@
 -------
 
 
+Hvis Du Er Norsk Homo
+
+
+- Dra deg til Helvette
+
+- Fjernet Homofile Liv
+- FjernerFjerner Norsk
+
+- Dra Så Helvettes Vekk 
+
+- Sjuko Patiske Drit Trenger ikke her
+
+- ingen nordmenn i hele verden er mitt ansvar
+
+
+- dere skal aldri aldri aldri være her
+
+-----------
+
+
+
 
  Docker Containers 
 
@@ -65,7 +86,11 @@ https://mitmproxy.org/
 ----------
 
 
+https://tensorflow.org/
 
+https://developer.android.com
+
+https://mitmproxy.org/
 
 
 --------------
