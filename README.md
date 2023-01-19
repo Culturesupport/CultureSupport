@@ -18,6 +18,7 @@
 - 👤 Heal With Monks 
 - 🧕 Belive on Good Religions 
 - 🦛 🦭🐅🐎🦁🐒🦧🦍🐄🐮🐠🐡🦐🐋 Let Animals Have Freedom to Live Without Human involved 
+, Their own Free Space Wild in Nature 🏜️
 - 🧑‍🌾 Grow Safe Food 🌱🌿
 - 🏊 Swim in Healthy Water 
 - 🫰🤌👌 Mantra & Mudra Healing 
