@@ -17,7 +17,7 @@
 - 🧘‍♂️ Heal With Meditation 
 - 👤 Heal With Monks 
 - 🧕 Belive on Good Religions 
-- 🦛 🦭🐅🐎🦁🐒🦧🦍🐄🐮🐠🐡🦐🐋 Let Animals Have Freedom 
+- 🦛 🦭🐅🐎🦁🐒🦧🦍🐄🐮🐠🐡🦐🐋 Let Animals Have Freedom to Live Without Human involved 
 - 🧑‍🌾 Grow Safe Food 🌱🌿
 - 🏊 Swim in Healthy Water 
 - 🫰🤌👌 Mantra & Mudra Healing 
