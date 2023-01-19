@@ -37,6 +37,10 @@ https://Docker.com
 - Generate Containers And Shortcuts and Operation
 Sycluses inside container images 
 
+
+- its like finding fast finished build 
+of GitHub repository softwares 
+
 ----------------
 
 
@@ -100,6 +104,8 @@ and saving heavy installation on pc
 https://GitHub.com/marketplace
 
 - GitHub Marketplace
+
+
 
 ----------------
 
