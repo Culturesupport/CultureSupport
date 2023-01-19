@@ -12,7 +12,7 @@
 - ♈♉♊♋♌♍♎♏♐♑♒♓⛎
 - 🪔 Martial Arts Rituals 
 - 🙇‍♂️ Heal Psychic Health 
-- 🙇‍♀️ Heal Psychic Health 
+- 🙇‍♀️ Heal Spiritual Health 
 - 🧘 Heal While Meditate 
 - 🧘‍♂️ Heal With Meditation 
 - 👤 Heal With Monks 
