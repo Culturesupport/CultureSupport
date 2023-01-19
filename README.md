@@ -13,7 +13,7 @@
 - 🪔 Martial Arts Rituals 
 - 🙇‍♂️ Heal Psychic Health 
 - 🙇‍♀️ Heal Psychic Health 
-- 🧘 Heal With Meditate 
+- 🧘 Heal While Meditate 
 - 🧘‍♂️ Heal With Meditation 
 - 👤 Heal With Monks 
 - 🧕 Belive on Good Religions 
