@@ -24,3 +24,57 @@
 - 🫰🤌👌 Mantra & Mudra Healing 
 - ☯️ Qi Gong & Thai Chi : Ying Yang
 - ☯️ Taoism & Daoism 
+
+
+---------
+
+https://GitHub.dev
+
+- GitHub Ligth Web Editor
+
+----------------
+
+
+
+
+---------
+
+https://GitHub.com/marketplace
+
+- GitHub Marketplace
+
+----------------
+
+
+
+
+---------
+
+https://Docker.com
+
+- Generate Containers And Shortcuts and Operation
+Sycluses inside container images 
+
+----------------
+
+
+
+
+---------
+
+https://npmjs.org
+
+- Npm Package 
+
+----------------
+
+
+
+
+---------
+
+https://nodejs.org
+
+- install nodejs for use Npm
+
+----------------
