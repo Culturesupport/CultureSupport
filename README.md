@@ -170,15 +170,15 @@ https://opensea.io/collection/apebitrum
 
 
 
-- Blockchain Have in Circumstances Way 
+# Why Blockchain ?
 
 - Evaporated Corruption
 - Let Economy Unfold
-- Let Other Mean Cases Than Economic Take Place
+- Let Other Cases Than Economic Take Place
 - Been On Forward Way A Good Applied System
-
+- Make Technology and Websites in upgraded ways 
 - Be Decentralized, With No Authority
-
+- Let Creating and Creating Reason Take Place
 - Make Decentralized Organisation The Modern 
 Impact 
 
