@@ -18,6 +18,7 @@ Organisation is Avaible Here :
 https://github.com/Culture-Support
 
 
+- its on roadmap to become a DAO organisation 
 
 ---------
 
