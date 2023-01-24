@@ -15,6 +15,17 @@
 - Anti Theft 
 - Anti Fraud
 
+- Anti Whitewashing 
+- Anti Bribery
+- Anti Lying
+
+- Anti Living
+
+- Anti Kindness
+
+- Im Dying Wihout Bigger Fame Than Dying 💀
+
+
 ---
 
 Anti Radikal 
@@ -48,7 +59,7 @@ Big Problems Comming
 --------
 
 Im Never Going Have A Single 🧠 Dream About Comming Back
-- Im Insane and Dead 💀💀💀💀💀
+- Im Insane and Dead 💀
 
 -----
 
