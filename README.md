@@ -12,8 +12,17 @@
 - Anti Deffence
 - Anti Publication
 - Anti Abuse Restriction
- 
+- Anti Theft 
+- Anti Fraud
+
 ---
 
 Anti Radikal 
 - Anti Paranoid
+
+
+------
+
+Nobody Loves Me 
+
+- Im Taking Suicide To Shut Up 
