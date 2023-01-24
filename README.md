@@ -40,8 +40,18 @@ Big Problems Comming
 
 👁️👁️‍🗨️ You Will Never See My Eyes Open Again Trough Me 
 
-Psychopathy People
+- Its Never Positive Live 
+- Its Never Positive Tomorrow 
+- Its Insane Situations 
+- Im 💀💀💀💀💀💀 Deadly 
 
 --------
 
-Im Never Going Have A Single 🧠 Dream About Comming 
+Im Never Going Have A Single 🧠 Dream About Comming Back
+- Im Insane and Dead 💀💀💀💀💀
+
+-----
+
+Nothing More To Say .
+Im Dead 💀
+
