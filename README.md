@@ -40,5 +40,8 @@ Big Problems Comming
 
 👁️👁️‍🗨️ You Will Never See My Eyes Open Again Trough Me 
 
-# Psychopathy People
+Psychopathy People
+
 --------
+
+Im Never Going Have A Single 🧠 Dream About Comming 
