@@ -26,3 +26,19 @@ Anti Radikal
 Nobody Loves Me 
 
 - Im Taking Suicide To Shut Up 
+
+
+---------
+
+Big Problems Comming 
+
+- Im Ready For Silence 
+
+- Taking Suicide and Delete Idiots Atempts 
+
+----------
+
+👁️👁️‍🗨️ You Will Never See My Eyes Open Again Trough Me 
+
+# Psychopathy People
+--------
