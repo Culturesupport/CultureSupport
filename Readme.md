@@ -23,4 +23,8 @@ Psycho-gang-stalking
 - Illegal Privacy Breaking 
 
 
-We Do All We Can To Sensour This illegal Country 
+We Do All We Can To Sensour This illegal Country 🇳🇴
+
+-----------
+
+We Fleee to Spain to Hide Fron This Psychopathy People
