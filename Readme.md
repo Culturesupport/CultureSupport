@@ -27,4 +27,7 @@ We Do All We Can To Sensour This illegal Country 🇳🇴
 
 -----------
 
-We Fleee to Spain to Hide Fron This Psychopathy People
+We Fleee to Spain to Hide Fron This Psychopathy People 
+ 
+ - Flee Away From Corruption Criminals 
+ - Flee Away To Let Gang Stalker Feel Useless
