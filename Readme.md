@@ -29,6 +29,10 @@ Ableton Live icon
 ![](https://cloud.githubusercontent.com/assets/7797479/6123652/12002f48-b0fd-11e4-908c-804b7f02d2b4.png)
 
 
+- Max For Live
+- Cycle 74"
+- Custom Synth Plugins
+- Code Scripts With Micro Controllers and Midi Keyboards.
 
 
 ----------
