@@ -32,6 +32,10 @@ Spotify Studio = Soundtrap
 
 https://www.soundtrap.com/pricing?source=landing_footer_link
 
+BandLab 
+
+- Artist Experience With Web Browser Studio
+- Artist Experience With Mobile Studio
 
 https://bandlab.com 
 
