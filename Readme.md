@@ -54,6 +54,12 @@ with midi keyboard , to max enjoy midi keyboard features
 
 
 
+https://en.wikipedia.org/wiki/Flowcode
+
+- Ways to make synth controller for daws 
+
+------------
+
 
 https://Docker.com
 
