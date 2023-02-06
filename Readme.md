@@ -33,7 +33,7 @@ Spotify Studio = Soundtrap
 https://www.soundtrap.com/pricing?source=landing_footer_link
 
 
-https://bandland.com 
+https://bandlab.com 
 
 
 ---------------
