@@ -31,7 +31,8 @@ Ableton Live icon
 
 - Max For Live
 - Cycling 74 Tutorials "
-- MaxDSp
+- Max DSP
+- Max MSP
 - Custom Synth Plugins
 - Code Scripts With Micro Controllers and Midi Keyboards.
 
