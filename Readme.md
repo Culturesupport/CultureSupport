@@ -35,6 +35,13 @@ Ableton Live icon
 - Code Scripts With Micro Controllers and Midi Keyboards.
 
 
+
+$ Follow our Way To Become Programmer and Artist 
+
+- Professional Make Beats 
+- Combined With Effects
+
+
 ----------
 
 
