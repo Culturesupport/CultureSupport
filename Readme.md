@@ -41,6 +41,10 @@ $ Follow our Way To Become Programmer and Artist
 - Professional Make Beats 
 - Combined With Effects
 
+- Our 6 Favorite Repositories
+- Enabled Some Hundred Ways To Produce 
+- Use Custom midi keyboard setup scripts compitable
+with midi keyboard , to max enjoy midi keyboard features
 
 ----------
 
