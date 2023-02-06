@@ -3,7 +3,7 @@
 
 
 
-if something occures in reason to contact :
+### Email Comtact :
 
 user-request@culture.support
 
@@ -12,13 +12,13 @@ user-request@culture.support
 
 
 
-Organisation is Avaible Here : 
+### Organisation is Here :
 
 
 https://github.com/Culture-Support
 
 
-- its on roadmap to become a DAO organisation 
+
 
 ---------
 
