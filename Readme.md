@@ -22,6 +22,18 @@ https://github.com/Culture-Support
 
 ---------
 
+Music Studio : Free User :
+
+- For those Who Want To Test Music Studio as Free Users
+
+https://www.soundtrap.com/pricing?source=landing_footer_link
+
+
+https://bandland.com 
+
+
+---------------
+
 
 
 Ableton Live icon
