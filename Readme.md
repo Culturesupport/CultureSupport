@@ -35,7 +35,7 @@ Music Studio : Free User :
 
 https://www.soundtrap.com/pricing?source=landing_footer_link
 
-BandLab 
+### BandLab 
 
 - Artist Experience With Web Browser Studio
 - Artist Experience With Mobile Studio
