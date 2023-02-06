@@ -22,10 +22,13 @@ https://github.com/Culture-Support
 
 ---------
 
-#Music Studio : Free User :
+###Music Studio : Free User :
 
 - Still Professional Studio 
 - For those Who Want To Test Music Studio as Free Users
+
+Spotify Studio = Soundtrap
+
 
 https://www.soundtrap.com/pricing?source=landing_footer_link
 
