@@ -1,22 +1,6 @@
 ### Culture.Support 👋
 
-- Are You Want to Become More Inclusive With Our Priority ?
-- Enabling Become a Coder With Us ?
-- We Are Experiment in Letting Our Organisation Take Care
-- Letting Developer Become Controlling The Website
-- Engage in Special Relations of Structure a More Open Transperancy
-- Let Standard People Get involved As Demand
-- Let A Role Unfold For Everyone
-- Even its Takes Us To A Stage Of Find You and Come Closer Interested
-- Bexomming Owner Of The Organisation Free Will Sections
-- Unfold Our Non Profitt
-- Unfold Economic MBA Relation
-- Unfold Roles of Artificial Economy
-- Unfold Roles of Creative Economy
-- Unfold Roles of How We Like Secrets And Open Agenda 
-- Make Our A Organisation With No Limit in Role or Communicative Skills
-- Unfold A Part Where You Have Fully Trust in Enabling a Dream.
-- Unfold How We Are Here For You
+
 
 --------------
 
