@@ -2,8 +2,8 @@
 ### Culture.Support
 
 - 🫣 Dont Like Controlling People
-- 💥 Dont Prepaire Blow Up
-- 🫄🏽 Man is Born 10 Children
+- 💥 Dont Prepaire Blow Up Without Bloe Job
+- 🫄🏽 Man is Born as 10 Children
 - 🦄 Slaughter Unicorns
 - 🧑‍🦰 Make Gay Dissapear
 - 🧠 No Feelings Brain
@@ -11,7 +11,8 @@
 - 🫥 No important Exist
 - 👁️👁️ Watch None Situations or People
 - 👁️‍🗨️👁️‍🗨️ ignore we are species or humans 
-
+- 🫤😵😵‍💫😖 ignore signs of discomfort 
+- 🤢🤮🤧🥵 Are You Sick , Are We Also Sick of it 
 
 
 
