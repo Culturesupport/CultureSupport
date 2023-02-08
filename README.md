@@ -2,7 +2,7 @@
 ### Culture.Support
 
 - 🫣 Dont Like Controlling People
-- 💥 Dont Prepaire Blow Up Without Bloe Job
+- 💥 Dont Prepaire Blow Up Without Blow Job
 - 🫄🏽 Man is Born as 10 Children
 - 🦄 Slaughter Unicorns
 - 🧑‍🦰 Make Gay Dissapear
