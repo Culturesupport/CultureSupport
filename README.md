@@ -23,15 +23,18 @@ Here Are Our Discussions
 -----------
 
 
+- Culture.Support Profile Main Discussions
+
+
+https://github.com/Culturesupport/CultureSupport/discussions
 
 
 
-https://github.com/Culturesupport/CultureSupport/discussions/2
+
+### Culture.Support Organisation Discussions Here
 
 
-
-https://github.com/Culturesupport/CultureSupport/discussions/
-
+https://github.com/orgs/Culture-Support/discussions
 
 
 
