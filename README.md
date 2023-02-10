@@ -6,9 +6,12 @@
 -------
 
 
-### Culture.Support
+Culture.Support
+-----
 
+We Clearly Show No Legit in Market
 
+- Be Aware We Dont Cover Any Outside Organisation
 
 
 We Care Most For Own Organisation
