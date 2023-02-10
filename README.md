@@ -27,6 +27,16 @@ Culture.Support
 - We Operate on The Way Flow Of Logic 
 - We Operate To Become A Self image 
 
+
+--------
+
+
+- As A Legir Equation Can Confirm
+- There is Million Equality Outcomes We Not Going Become
+- Persons Have Paths in Life To Walk , You May End Up Where Your Going
+- We Have Only A Click And Management Reason Here.
+
+
 ------
 
 We Care Most For Own Organisation
