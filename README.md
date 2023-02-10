@@ -9,10 +9,25 @@
 Culture.Support
 -----
 
-We Clearly Show No Legit in Market
+- We Clearly Show No Trust
 
 - Be Aware We Dont Cover Any Outside Organisation
+- We Are Not Comming Call You or Ask You Something
+- We Arr Not A Regular Way
 
+- You Will Not Be Enable Do As Us or Become Us
+- In Circumstances We Dont Becomming You
+- We Dont Find interest Because of You
+
+
+- There is Not Possible For our Way To Operate
+- By The Way its Setup 
+
+- There is No Person Inspire or Activate Us
+- We Operate on The Way Flow Of Logic 
+- We Operate To Become A Self image 
+
+------
 
 We Care Most For Own Organisation
 
