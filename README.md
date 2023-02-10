@@ -20,7 +20,7 @@ Culture.Support
 - We Dont Find interest Because of You
 
 
-- There is Not Possible For our Way To Operate
+- There is Not Possible For our Way To Operate For A Specific Person Satisfaction.
 - By The Way its Setup 
 
 - There is No Person Inspire or Activate Us
