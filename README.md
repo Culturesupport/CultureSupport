@@ -9,32 +9,10 @@
 Culture.Support
 -----
 
-- We Clearly Show No Trust
-
-- Be Aware We Dont Cover Any Outside Organisation
-- We Are Not Comming Call You or Ask You Something
-- We Arr Not A Regular Way
-
-- You Will Not Be Enable Do As Us or Become Us
-- In Circumstances We Dont Becomming You
-- We Dont Find interest Because of You
 
 
-- There is Not Possible For our Way To Operate For A Specific Person Satisfaction.
-- By The Way its Setup 
+# Coding Can Be Great 
 
-- There is No Person Inspire or Activate Us
-- We Operate on The Way Flow Of Logic 
-- We Operate To Become A Self image 
-
-
---------
-
-
-- As A Legir Equation Can Confirm
-- There is Million Equality Outcomes We Not Going Become
-- Persons Have Paths in Life To Walk , You May End Up Where Your Going
-- We Have Only A Click And Management Reason Here.
 
 
 ------
