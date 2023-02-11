@@ -20,7 +20,7 @@ Im Educate To Unfold Coding Skills
 - im Love My Own Results
 
 There is Only Me and My Own Results
-Im Stay Up To Dste For My Owm Dignity
+Im Stay Up To Date For My Owm Dignity
 
 
 
