@@ -7,3 +7,6 @@ Im Erased Life Memory By Hscking Body
 - Forget iQ
 - Forget All Words To Forget
 - Erase Communication Mind
+- Erase Mind Thinking
+- Erase Noise
+- Eraase Body Signals
