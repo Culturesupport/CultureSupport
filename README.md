@@ -18,6 +18,20 @@
  Template Should Enable Good Presentation
 
 
+-------
+
+
+Born : Kautokeino
+
+Living : Skeidsdalen , Norway
+
+Organisation : Private
+
+Objective Mission : Programming for
+Personal Interest Organisation
+
+Programming and Preview My Results 
+
 ------
 
 We Care Most For Own Organisation
