@@ -11,26 +11,48 @@
 
 
 
- Coding Can Be Great 
-
- Find Template Library
  
- Template Should Enable Good Presentation
 
 
--------
+Im Educate To Unfold Coding Skills
+- Im Currious To Development
+- Im Likes Tech
+- im Love My Own Results
+
+There is Only Me and My Own Results
+Im Stay Up To Dste For My Owm Dignity
+
 
 
 Born : Kautokeino
 
 Living : Skeidsdalen , Norway
 
-Organisation : Private
+Organisation : Private Owning
 
 Objective Mission : Programming for
 Personal Interest Organisation
 
-Programming and Preview My Results 
+CultureAuction.Tech
+Auctionjs.org
+
+Programming and Preview My 
+Results As im Educate To Consepts
+
+Im Need Update To Progress Remember
+How Skills is Performed 
+
+Because My Results is Based For Edit and Applyinf
+
+
+There is Nothing Happend Without Me Working On it
+There is No Free Time if Going Experoience Change
+
+Im Have Made A Work Based Organisation
+With Strongest Gap Of Own Performing Along With 
+Scripting and Design.
+
+
 
 ------
 
