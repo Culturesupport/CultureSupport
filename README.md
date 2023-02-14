@@ -16,3 +16,10 @@ https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
 # Service Worker
 
 https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API
+
+
+-------
+
+# Web Worker
+
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API
