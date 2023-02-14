@@ -75,7 +75,4 @@ siste bindende avtale Oppdaget :
 
 
 
-
-### Personlig Evaluering
-
-- Går som nickname "Høvding" etter 97 gjettinger om hva potensielt riktig kan hete
+### innholdet kan ikke leses i dvale modus 
