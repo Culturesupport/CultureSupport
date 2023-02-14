@@ -76,4 +76,4 @@ Pass deg så du ikke blir Jovialt Dilemma uten appostroff
 
 ### Personlig Evaluering
 
-- Går som nickname "Høvding" etter 97 gjettingee hva potensielt kan hete
+- Går som nickname "Høvding" etter 97 gjettingernom hva potensielt riktig kan hete
