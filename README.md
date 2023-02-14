@@ -70,3 +70,5 @@ https://github.com/Culturesupport/CultureSupport/blob/main/license.txt
 siste bindende avtale Oppdaget :
 
 - Gang Stalkere Skal Dø av For Lite Oppmerksomhet
+
+Pass deg så du ikke blir Jovialt Dilemma uten appostroff
