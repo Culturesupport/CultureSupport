@@ -23,3 +23,15 @@ https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API
 # Web Worker
 
 https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API
+
+
+----------
+
+# Web Storage
+
+
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API
+
+-------
+-------
+--------
