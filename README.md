@@ -69,9 +69,11 @@ https://github.com/Culturesupport/CultureSupport/blob/main/license.txt
 
 siste bindende avtale Oppdaget :
 
-- Gang Stalkere Skal Dø av For Lite Oppmerksomhet
+- Avtale Blir ikke Avtale Med Andre
+- Skjerpet Budget
+- Ingen innblikk i mine vilkår.
 
-Pass deg så du ikke blir Jovialt Dilemma uten appostroff
+
 
 
 ### Personlig Evaluering
