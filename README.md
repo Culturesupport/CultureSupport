@@ -60,19 +60,6 @@ https://developer.mozilla.org/en-US/docs/Web
 ----------
 -------------
 
- lisensen er Ole Kristian Løvold Eierskap
+ 
 
 
-
-https://github.com/Culturesupport/CultureSupport/blob/main/license.txt
-
-
-siste bindende avtale Oppdaget :
-
-- Avtale Blir ikke Avtale Med Andre
-- Skjerpet Budget
-- Ingen innblikk i mine vilkår.
-
-
-
-### innholdet kan ikke leses i dvale modus 
