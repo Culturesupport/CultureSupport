@@ -52,8 +52,21 @@ https://developer.mozilla.org/en-US/docs/Web
 
 
 
+
+
+--------
+----------
+
+----------
+-------------
+
  lisensen er Ole Kristian Løvold Eierskap
 
 
 
 https://github.com/Culturesupport/CultureSupport/blob/main/license.txt
+
+
+siste bindende avtale Oppdaget :
+
+- Gang Stalkere Skal Dø av For Lite Oppmerksomhet
