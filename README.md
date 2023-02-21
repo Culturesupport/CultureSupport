@@ -2,9 +2,19 @@
 ### How To Controll Github Repositories From Terminal 
 
 - Erase Faster Repositories
-- Manage And Secure Repositories Remote
-- Enable Install Dependencies 
-- Ssh Connected Communication with Github 
+- Manage Commands in Terminal on Computer to Remote Do Things inside Repository 
+- Build Remote Workflows
+- Make Github Actions
+- Controll Repository Applications inside Repository 
+
+- Contoll NMP Packages
+- Controll Containers 
+- Controll Security on Github Profile
+- Command Upload File Configuration 
+
+-----
+
+- Enable Repository Websites For Seperate Github Repository You Make New +
 
 ----------------
 
