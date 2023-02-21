@@ -116,21 +116,7 @@
 ----------------
 
 
-### Github Dev : Web Developer Client Github 
 
-
-
-
-
-
-### Visual Studio Code : Web Developer Client Windows 
-
-
-
-
-----------------
-
-----------------
 
 
 ----------------
