@@ -195,31 +195,6 @@ https://vscode.dev/ </td>
 
 -----------------
 
-----------------
-
-----------------
-
-----------------
-
-
-
-
-### Become DJ Producer 
-
-<table>
-<thead>
-<tr>
-<th> Become Dj Producer Here </th>
-
-</tr>
-</thead>
-<tbody>
-<tr>
-<td> https://dj.beatport.com/home </td>
-
-</tr>
-</tbody>
-</table>
 
 
 
@@ -308,4 +283,29 @@ https://vscode.dev/ </td>
 
 
 
+----------------
+
+----------------
+
+----------------
+
+
+
+
+### Become DJ Producer 
+
+<table>
+<thead>
+<tr>
+<th> Become Dj Producer Here </th>
+
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> https://dj.beatport.com/home </td>
+
+</tr>
+</tbody>
+</table>
 
