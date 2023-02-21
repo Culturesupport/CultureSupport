@@ -61,13 +61,13 @@
 <thead>
 <tr>
 <th> Github Blog  </th>
-<th> Github Blog  </th>
+<th> Github Blog Education  </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td> https://github.blog/ </td>
-<td> https://github.blog/ </td>
+<td> https://github.blog/category/education/ </td>
 </tr>
 </tbody>
 </table>
