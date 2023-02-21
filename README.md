@@ -26,7 +26,7 @@
   <td> https://docs.github.com/en </td>
   
   
-    <td>bar</td>
+   
   
     <td> https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
  </td>
@@ -41,7 +41,7 @@ https://docs.github.com/en/repositories/creating-and-managing-repositories/resto
 
   </td>
   
-<td></td>
+
 </tr>
 <tr>
 <td>bar</td>
