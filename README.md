@@ -15,7 +15,7 @@
 <table>
 <thead>
 <tr>
-<th>documentation</th>
+<th>github documentation</th>
 <th>link</th>
 </tr>
 </thead>
@@ -32,8 +32,8 @@
 
 </tr>
 <tr>
-<td>Visit</td>
-<td>Here</td>
+<td>Link</td>
+<td>Updated</td>
 </tr>
 </tbody>
 </table>
@@ -45,7 +45,7 @@
 <table>
 <thead>
 <tr>
-<th>documentation</th>
+<th>Personal Access Token : Profile Authentication </th>
 <th>link</th>
 </tr>
 </thead>
