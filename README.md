@@ -118,6 +118,35 @@
 
 
 
+----------------
+
+
+
+<table>
+<thead>
+<tr>
+<th> Restore Repository : After Deleted  </th>
+<th> Restore Repository  </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> https://docs.github.com/en/repositories/creating-and-managing-repositories/restoring-a-deleted-repository </td>
+<td></td>
+</tr>
+<tr>
+<td> Authenticate / Terminal Client / Restore Deleted Repository  </td>
+<td>Fast Restore  Repository </td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+----------------
+
+
 
 ----------------
 
