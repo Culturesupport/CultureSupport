@@ -100,7 +100,7 @@
 </thead>
 <tbody>
 <tr>
-<td> https://docs.github.com/en/repositories/creating-and-managing-repositories/restoring-a-deleted-repository </td>
+<td> https://docs.github.com/en/repositories/creating-and-managing-repositories/deleting-a-repository </td>
 <td></td>
 </tr>
 <tr>
