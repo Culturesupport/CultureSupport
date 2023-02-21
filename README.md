@@ -40,15 +40,9 @@
    
 
   
-
-</tr>
-<tr>
-<td>Find Documentation Instructions Based On Github Features </td>
-<td> Github Instruction  </td>
 </tr>
 </tbody>
 </table>
-
 
 
 
