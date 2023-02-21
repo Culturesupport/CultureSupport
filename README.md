@@ -69,7 +69,7 @@
 <thead>
 <tr>
 <th>Github Client Documentation</th>
-<th>Link</th>
+<th> instruction </th>
 </tr>
 </thead>
 <tbody>
@@ -78,8 +78,8 @@
 <td></td>
 </tr>
 <tr>
-<td>Visit</td>
-<td>Here</td>
+<td> How To Manage Github Client And Repositories From Client </td>
+<td> Client Management </td>
 </tr>
 </tbody>
 </table>
