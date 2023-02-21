@@ -23,12 +23,6 @@ https://docs.github.com/en/github-cli
 ----------------
 
 
-
-
-----------------
-
-https://docs.github.com/en/actions/publishing-packages/publishing-nodejs-packages
-
 ----------------
 
 
