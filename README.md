@@ -15,7 +15,7 @@
 <table>
 <thead>
 <tr>
-<th>Github Documentation</th>
+<th>Github Documentation instructions </th>
 <th> Github Documentation Link</th>
 </tr>
 </thead>
@@ -32,8 +32,8 @@
 
 </tr>
 <tr>
-<td>Link</td>
-<td>Updated</td>
+<td>Find Documentation Instructions Based On Githun Features </td>
+<td> Github Instruction  </td>
 </tr>
 </tbody>
 </table>
