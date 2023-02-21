@@ -1,5 +1,5 @@
 
-# How To Controll Github Repositories From Terminal 
+### How To Controll Github Repositories From Terminal 
 
 - Erase Faster Repositories
 - Manage And Secure Repositories Remote
