@@ -28,10 +28,18 @@
   
     <td>bar</td>
   
-    <td>bar</td>
+    <td> https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+ </td>
   
-    <td>bar</td>
+    <td> https://docs.github.com/en/github-cli </td>
   
+  
+  
+    <td> 
+
+https://docs.github.com/en/repositories/creating-and-managing-repositories/restoring-a-deleted-repository
+
+  </td>
   
 <td></td>
 </tr>
@@ -45,15 +53,6 @@
 ----------------
 
 
-https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
-
-----------------
-
-
-----------------
-
-https://docs.github.com/en/github-cli
-
 
 ----------------
 
@@ -61,7 +60,12 @@ https://docs.github.com/en/github-cli
 ----------------
 
 
-https://docs.github.com/en/repositories/creating-and-managing-repositories/restoring-a-deleted-repository
+
+
+----------------
+
+
+----------------
 
 
 
