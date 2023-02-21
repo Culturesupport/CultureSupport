@@ -143,5 +143,18 @@ https://dj.beatport.com/home
 
 
 
-
+<table>
+<thead>
+<tr>
+<th>Making </th>
+<th>Bar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>All Rights Reserved </td>
+<td> Clients </td>
+</tr>
+</tbody>
+</table>
 
