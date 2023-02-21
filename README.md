@@ -30,7 +30,7 @@
   
     <td>  </td>
   
-    <td> https://docs.github.com/en/github-cli </td>
+    <td> </td>
   
   
   
@@ -81,7 +81,7 @@
 </thead>
 <tbody>
 <tr>
-<td>bar</td>
+<td>   https://docs.github.com/en/github-cli </td>
 <td></td>
 </tr>
 <tr>
