@@ -254,7 +254,7 @@ https://vscode.dev/ </td>
 <table>
 <thead>
 <tr>
-<th> Use Marddown Language To Make Tables in Readme.md File   </th>
+<th> Use Markdown Language To Make Tables in Readme.md File   </th>
 
 </tr>
 </thead>
