@@ -52,6 +52,9 @@ https://docs.github.com/en/repositories/creating-and-managing-repositories/resto
 
 https://github.dev/github/dev
 
+
+https://vscode.dev/
+
 ----------------
 
 ----------------
