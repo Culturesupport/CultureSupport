@@ -16,7 +16,7 @@
 <thead>
 <tr>
 <th>Github Documentation</th>
-<th>link</th>
+<th>Link</th>
 </tr>
 </thead>
 <tbody>
