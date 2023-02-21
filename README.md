@@ -15,7 +15,7 @@
 <table>
 <thead>
 <tr>
-<th>github documentation</th>
+<th>Github Documentation</th>
 <th>link</th>
 </tr>
 </thead>
@@ -68,7 +68,7 @@
 <table>
 <thead>
 <tr>
-<th>documentation</th>
+<th>Github Client Documentation</th>
 <th>link</th>
 </tr>
 </thead>
