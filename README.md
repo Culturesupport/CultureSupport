@@ -247,7 +247,7 @@ https://vscode.dev/ </td>
 <table>
 <thead>
 <tr>
-<th> readme.md table instruction  </th>
+<th> Readme.md Table instruction  </th>
 
 </tr>
 </thead>
@@ -261,7 +261,7 @@ https://vscode.dev/ </td>
 
 
 
-### demo link of Readme.md Table instruction  
+###  Readme.md Table instruction  / Markdown Language
 
 <table>
 <thead>
