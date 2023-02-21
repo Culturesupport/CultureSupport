@@ -95,7 +95,7 @@
 <thead>
 <tr>
 <th>Delete Repository / Reposotory Terminal Remote</th>
-<th>Link</th>
+<th> Delete Fast </th>
 </tr>
 </thead>
 <tbody>
@@ -104,8 +104,8 @@
 <td></td>
 </tr>
 <tr>
-<td>Visit</td>
-<td>Here</td>
+<td> Authenticate / Terminal Client Delete Repository Fast </td>
+<td>Fast Delete Repository </td>
 </tr>
 </tbody>
 </table>
