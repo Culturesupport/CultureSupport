@@ -197,14 +197,14 @@ https://dj.beatport.com/home
 <table>
 <thead>
 <tr>
-<th>Making </th>
-<th>Bar</th>
+<th> Community </th>
+<th> Api </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>All Rights Reserved </td>
-<td> Clients </td>
+<td> https://docs.github.com/en/communities </td>
+<td> https://docs.github.com/en/rest?apiVersion=2022-11-28 </td>
 </tr>
 </tbody>
 </table>
