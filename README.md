@@ -267,6 +267,50 @@
 
 
 
+<table>
+<thead>
+<tr>
+<th>  Bootstrap : Developer Documentation  </th>
+
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> https://getbootstrap.com/docs/5.3/getting-started/introduction/  </td>
+
+  
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+<table>
+<thead>
+<tr>
+<th>  Amp Developer Template  </th>
+
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> https://amp.dev/documentation/templates/ </td>
+
+  
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
 
 ----------------
 
