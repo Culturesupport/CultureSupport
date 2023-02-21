@@ -55,7 +55,7 @@ https://github.dev/github/dev
 
 
 
-### Visual Studio Client : Web Developer Client Windows 
+### Visual Studio Code : Web Developer Client Windows 
 
 
 
