@@ -118,7 +118,7 @@
 
 ### Github Dev : Web Developer Client Github 
 
-https://github.dev/github/dev
+
 
 
 
@@ -127,7 +127,6 @@ https://github.dev/github/dev
 
 
 
-https://vscode.dev/
 
 ----------------
 
@@ -147,14 +146,15 @@ https://dj.beatport.com/home
 <table>
 <thead>
 <tr>
-<th>Making </th>
-<th>Bar</th>
+<th> Github Developer </th>
+<th> Visual Studio Code </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>All Rights Reserved </td>
-<td> Clients </td>
+<td> https://github.dev/github/dev </td>
+<td> 
+https://vscode.dev/ </td>
 </tr>
 </tbody>
 </table>
