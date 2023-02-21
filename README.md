@@ -95,7 +95,7 @@
 <thead>
 <tr>
 <th>Delete Repository / Reposotory Terminal Remote</th>
-<th>link</th>
+<th>Link</th>
 </tr>
 </thead>
 <tbody>
