@@ -52,6 +52,25 @@
 
 
 
+<table>
+<thead>
+<tr>
+
+<th> Github Pages  </th>
+<th> Github Desktop </th>  
+</tr>
+</thead>
+<tbody>
+<tr>
+
+<td>  https://docs.github.com/en/pages </td>
+<td>  https://docs.github.com/en/desktop </td>  
+</tr>
+</tbody>
+</table>
+
+
+
 ----------------
 
 ----------------
