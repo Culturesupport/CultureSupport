@@ -46,7 +46,7 @@
 <thead>
 <tr>
 <th>Personal Access Token : Profile Authentication </th>
-<th>Link</th>
+<th> Remote Management </th>
 </tr>
 </thead>
 <tbody>
@@ -55,8 +55,8 @@
 <td></td>
 </tr>
 <tr>
-<td>Visit</td>
-<td>Here</td>
+<td> Link To Provide Remote Access From Pc To Github Repository </td>
+<td> Remote Handling </td>
 </tr>
 </tbody>
 </table>
