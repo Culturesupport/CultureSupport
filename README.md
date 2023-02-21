@@ -289,6 +289,28 @@ https://vscode.dev/ </td>
 ----------------
 
 
+
+
+# Advanced Markdowns 
+
+<table>
+<thead>
+<tr>
+<th> Create Advanced Markdown Schemes and Diagrams    </th>
+
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams  </td>
+
+</tr>
+</tbody>
+</table>
+
+
+
+
 ----------------
 
 
