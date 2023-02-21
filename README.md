@@ -331,18 +331,51 @@
 <table>
 <thead>
 <tr>
-<th>  Bootstrap : Developer Documentation  </th>
-
+<th>  W3 School Refference Html  </th>
+<th>  W3 School Refference Css  </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td> https://getbootstrap.com/docs/5.3/getting-started/introduction/  </td>
+<td> https://www.w3schools.com/tags/default.asp </td>
+
+<td> https://www.w3schools.com/w3css/w3css_references.asp </td>
 
   
 </tr>
 </tbody>
 </table>
+
+
+
+
+<table>
+<thead>
+<tr>
+<th>  W3 School Refference Javascript   </th>
+<th>  W3 School Refference Bootstrap 4  </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> https://www.w3schools.com/w3js/w3js_references.asp </td>
+
+<td> https://www.w3schools.com/bootstrap4/bootstrap_ref_all_classes.asp </td>
+
+  
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
 
 
 
