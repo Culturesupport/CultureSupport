@@ -61,13 +61,17 @@
 <thead>
 <tr>
 <th> Github Blog  </th>
-<th> Github Blog Education  </th>
+<th> Github Blog Education </th>
+<th> Github Blog Open Source </th>
+<th> Github Blog Product </th>  
 </tr>
 </thead>
 <tbody>
 <tr>
 <td> https://github.blog/ </td>
 <td> https://github.blog/category/education/ </td>
+<td>   https://github.blog/category/open-source/ </td>
+<td>  https://github.blog/category/product/ </td>  
 </tr>
 </tbody>
 </table>
