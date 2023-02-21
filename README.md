@@ -32,8 +32,8 @@
 
 </tr>
 <tr>
-<td>bar</td>
-<td>baz</td>
+<td>Visit</td>
+<td>Here</td>
 </tr>
 </tbody>
 </table>
@@ -55,8 +55,8 @@
 <td></td>
 </tr>
 <tr>
-<td>bar</td>
-<td>baz</td>
+<td>Visit</td>
+<td>Here</td>
 </tr>
 </tbody>
 </table>
@@ -78,8 +78,8 @@
 <td></td>
 </tr>
 <tr>
-<td>bar</td>
-<td>baz</td>
+<td>Visit</td>
+<td>Here</td>
 </tr>
 </tbody>
 </table>
@@ -104,8 +104,8 @@
 <td></td>
 </tr>
 <tr>
-<td>bar</td>
-<td>baz</td>
+<td>Visit</td>
+<td>Here</td>
 </tr>
 </tbody>
 </table>
