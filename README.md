@@ -121,14 +121,6 @@
 
 ----------------
 
-### Play as Dj on Computer 
-
-
-
-
-
-----------------
-
 <table>
 <thead>
 <tr>
