@@ -123,7 +123,7 @@
 
 ### Play as Dj on Computer 
 
-https://dj.beatport.com/home
+
 
 
 
@@ -155,17 +155,20 @@ https://vscode.dev/ </td>
 
 ----------------
 
+
+### Become DJ Producer 
+
 <table>
 <thead>
 <tr>
-<th>Making </th>
-<th>Bar</th>
+<th> Become Dj Producer Here </th>
+
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>All Rights Reserved </td>
-<td> Clients </td>
+<td> https://dj.beatport.com/home </td>
+
 </tr>
 </tbody>
 </table>
