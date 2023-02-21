@@ -44,6 +44,20 @@
 </table>
 
 
+<table>
+<thead>
+<tr>
+<th> Community </th>
+<th> Api </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> https://docs.github.com/en/communities </td>
+<td> https://docs.github.com/en/rest?apiVersion=2022-11-28 </td>
+</tr>
+</tbody>
+</table>
 
 
 
@@ -245,20 +259,6 @@
 
 ----------------
 
-<table>
-<thead>
-<tr>
-<th> Community </th>
-<th> Api </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td> https://docs.github.com/en/communities </td>
-<td> https://docs.github.com/en/rest?apiVersion=2022-11-28 </td>
-</tr>
-</tbody>
-</table>
 
 
 
