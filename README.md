@@ -46,7 +46,7 @@
 <thead>
 <tr>
 <th>Personal Access Token : Profile Authentication </th>
-<th>link</th>
+<th>Link</th>
 </tr>
 </thead>
 <tbody>
@@ -69,7 +69,7 @@
 <thead>
 <tr>
 <th>Github Client Documentation</th>
-<th>link</th>
+<th>Link</th>
 </tr>
 </thead>
 <tbody>
@@ -94,7 +94,7 @@
 <table>
 <thead>
 <tr>
-<th>documentation</th>
+<th>Delete Repository / Reposotory Terminal Remote</th>
 <th>link</th>
 </tr>
 </thead>
