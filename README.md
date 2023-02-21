@@ -1,6 +1,11 @@
 
 # How To Controll Github Repositories From Terminal 
 
+- Erase Faster Repositories
+- Manage And Secure Repositories Remote
+- Enable Install Dependencies 
+- Ssh Connected Communication with Github 
+
 ----------------
 
 https://docs.github.com/en
