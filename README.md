@@ -267,6 +267,27 @@
 
 
 
+
+<table>
+<thead>
+<tr>
+<th>  TailWind Css  Template Documentation  </th>
+
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> https://tailwindcss.com/docs/installation/play-cdn </td>
+
+  
+</tr>
+</tbody>
+</table>
+
+
+
+
+
 <table>
 <thead>
 <tr>
@@ -375,26 +396,6 @@
 
 
 
-
-
-
-
-
-<table>
-<thead>
-<tr>
-<th>  TailWind Css  Template Documentation  </th>
-
-</tr>
-</thead>
-<tbody>
-<tr>
-<td> https://tailwindcss.com/docs/installation/play-cdn </td>
-
-  
-</tr>
-</tbody>
-</table>
 
 
 
