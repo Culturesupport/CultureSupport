@@ -15,6 +15,7 @@
 -----
 
 - Enable Repository Websites For Seperate Github Repository You Make New +
+-  + Tab  Make New Repository Beside User Profiler Upper Right on Github Profile Image, Up Right Top Profile Image Tab 
 
 ----------------
 
