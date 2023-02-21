@@ -1,5 +1,5 @@
 
-### Github Uawe Mini Guide Sheet
+### Github User Mini Guide Sheet
 
 
 
