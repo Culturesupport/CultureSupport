@@ -1,23 +1,5 @@
 
-### How To Controll Github Repositories From Terminal 
-
-- Erase Faster Repositories
-- Manage Commands in Terminal on Computer to Remote Do Things inside Repository 
-- Build Remote Workflows
-- Make Github Actions
-- Controll Repository Applications inside Repository 
-
-- Contoll NMP Packages
-- Controll Containers 
-- Controll Security on Github Profile
-- Command Upload File Configuration 
-
------
-
-- Enable Repository Websites For Seperate Github Repository You Make New +
--  + Tab  Make New Repository Beside User Profiler Upper Right on Github Profile Image, Up Right Top Profile Image Tab 
-
-----------------
+### Github Uawe Mini Guide Sheet
 
 
 
