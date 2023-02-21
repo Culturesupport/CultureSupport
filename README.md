@@ -121,26 +121,6 @@
 
 
 
-<table>
-<thead>
-<tr>
-<th>abc</th>
-<th>def</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>bar</td>
-<td></td>
-</tr>
-<tr>
-<td>bar</td>
-<td>baz</td>
-</tr>
-</tbody>
-</table>
-
-
 ----------------
 
 
@@ -149,24 +129,7 @@
 
 
 
-<table>
-<thead>
-<tr>
-<th>abc</th>
-<th>def</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>bar</td>
-<td></td>
-</tr>
-<tr>
-<td>bar</td>
-<td>baz</td>
-</tr>
-</tbody>
-</table>
+
 
 
 ----------------
@@ -217,21 +180,4 @@ https://dj.beatport.com/home
 
 
 
-<table>
-<thead>
-<tr>
-<th>abc</th>
-<th>def</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>bar</td>
-<td></td>
-</tr>
-<tr>
-<td>bar</td>
-<td>baz</td>
-</tr>
-</tbody>
-</table>
+
