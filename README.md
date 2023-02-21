@@ -28,7 +28,7 @@
   
    
   
-    <td> https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token </td>
+    <td>  </td>
   
     <td> https://docs.github.com/en/github-cli </td>
   
@@ -58,7 +58,7 @@
 </thead>
 <tbody>
 <tr>
-<td>bar</td>
+<td> https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token </td>
 <td></td>
 </tr>
 <tr>
