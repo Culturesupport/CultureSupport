@@ -94,8 +94,8 @@
 <table>
 <thead>
 <tr>
-<th>Delete Repository / Reposotory Terminal Remote</th>
-<th> Delete Fast </th>
+<th> Delete Repository :  Mass Delete Repositories Remote Fast </th>
+<th> Delete Fast  </th>
 </tr>
 </thead>
 <tbody>
