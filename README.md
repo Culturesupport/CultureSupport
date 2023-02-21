@@ -15,8 +15,8 @@
 <table>
 <thead>
 <tr>
-<th>abc</th>
-<th>def</th>
+<th>documentation</th>
+<th>link</th>
 </tr>
 </thead>
 <tbody>
@@ -45,8 +45,8 @@
 <table>
 <thead>
 <tr>
-<th>abc</th>
-<th>def</th>
+<th>documentation</th>
+<th>link</th>
 </tr>
 </thead>
 <tbody>
@@ -68,8 +68,8 @@
 <table>
 <thead>
 <tr>
-<th>abc</th>
-<th>def</th>
+<th>documentation</th>
+<th>link</th>
 </tr>
 </thead>
 <tbody>
@@ -94,8 +94,8 @@
 <table>
 <thead>
 <tr>
-<th>abc</th>
-<th>def</th>
+<th>documentation</th>
+<th>link</th>
 </tr>
 </thead>
 <tbody>
