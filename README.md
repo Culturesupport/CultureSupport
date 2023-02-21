@@ -48,9 +48,15 @@ https://docs.github.com/en/repositories/creating-and-managing-repositories/resto
 ----------------
 
 
-### Github Dev : Coder ide for Github Programming 
+### Github Dev : Web Developer Client Github 
 
 https://github.dev/github/dev
+
+
+
+
+### Visual Studio Client : Web Developer Client Windows 
+
 
 
 https://vscode.dev/
