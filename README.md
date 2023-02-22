@@ -279,7 +279,7 @@ https://vscode.dev/ </td>
 <td></td>
 </tr>
 <tr>
-<td> How To Manage Github Client And Repositories From Client </td>
+<td> How To Manage Github Client And Repositories From Github Desktop Client </td>
 <td> Client Management </td>
 </tr>
 </tbody>
