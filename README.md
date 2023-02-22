@@ -256,7 +256,7 @@ https://vscode.dev/ </td>
 <td></td>
 </tr>
 <tr>
-<td> Link To Provide Remote Access From Pc To Github Repository </td>
+<td> Link To Provide Remote Access From Pc To Github Repository Via Terminal Client Pc</td>
 <td> Remote Handling </td>
 </tr>
 </tbody>
