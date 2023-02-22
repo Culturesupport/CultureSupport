@@ -257,7 +257,7 @@ https://vscode.dev/ </td>
 </tr>
 <tr>
 <td> Link To Provide Remote Access From Pc To Github Repository Via Terminal Client Pc</td>
-<td> Remote Handling </td>
+<td> Terminal Client </td>
 </tr>
 </tbody>
 </table>
@@ -280,7 +280,7 @@ https://vscode.dev/ </td>
 </tr>
 <tr>
 <td> How To Manage Github Client And Repositories From Github Desktop Client </td>
-<td> Client Management </td>
+<td> Github Desktop </td>
 </tr>
 </tbody>
 </table>
