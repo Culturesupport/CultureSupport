@@ -247,7 +247,7 @@ https://vscode.dev/ </td>
 <thead>
 <tr>
 <th>Personal Access Token : Profile Authentication </th>
-<th> Remote Management </th>
+<th> instruction </th>
 </tr>
 </thead>
 <tbody>
@@ -257,7 +257,7 @@ https://vscode.dev/ </td>
 </tr>
 <tr>
 <td> Link To Provide Remote Access From Pc To Github Repository Via Terminal Client Pc</td>
-<td> Terminal Client </td>
+<td> Terminal  </td>
 </tr>
 </tbody>
 </table>
