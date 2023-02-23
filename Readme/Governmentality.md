@@ -1,3 +1,6 @@
+# A Big Dark Norway Awareness 
+
+
 ### We Advice You Not to Pay Scammmers Provoking from Norway 
 
 - Dont Invest in Norway 
