@@ -1,8 +1,10 @@
 
-### Github User Mini Guide Sheet
 
+# What We Doing
 
+# Envolve Automator App Scrips 
 
+### Enabling Smart Automations With Automator on Mac
 
 https://github.com/stars/Culturesupport/lists/automator
 
@@ -30,6 +32,8 @@ Envolving Build Fast Applications Routines
 
 
 
+
+### Github User Mini Guide Sheet
 
 ----------------
 
