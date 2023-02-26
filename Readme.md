@@ -26,7 +26,7 @@ Envolving Build Fast Applications Routines
 
 -----
 
-- Act Web Browsing Favourite Operation
+- Support Web Browsing Favourite Operation
 
 -----
 
