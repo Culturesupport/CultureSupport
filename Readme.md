@@ -3,6 +3,34 @@
 
 
 
+
+https://github.com/stars/Culturesupport/lists/automator
+
+
+We Are Using This Procedure List to Envolve Ai To Understand Behavior 
+
+
+
+We Making Scientific Automator Progress With Mac
+
+Envolving Build Fast Applications Routines 
+
+- Command Prompting
+- Starting Procedures
+- Starting Web Search
+- Starting Library Search
+- Finding Code
+- Build Application Tasks
+
+-----
+
+- Act Web Browsing Favourite Operation
+
+-----
+
+
+
+
 ----------------
 
 <table>
