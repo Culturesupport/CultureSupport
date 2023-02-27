@@ -47,4 +47,4 @@ https://en.wikipedia.org/wiki/Vengeful_ghost
 
 ### Threat Evil Spirits With Exorsism
 
-https://en.wikipedia.org/wiki/Exorcism
+https://en.wikipedia.org/wiki/Exorcism 
