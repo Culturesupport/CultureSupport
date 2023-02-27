@@ -54,3 +54,9 @@ https://en.wikipedia.org/wiki/Exorcism
 
 
 https://en.wikipedia.org/wiki/List_of_legendary_creatures_from_Japan
+
+https://en.wikipedia.org/wiki/Demon
+
+https://en.wikipedia.org/wiki/Ghosts_in_Chinese_culture
+
+
