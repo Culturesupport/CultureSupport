@@ -30,3 +30,10 @@ https://en.wikipedia.org/wiki/Samudra_Manthana
 https://en.wikipedia.org/wiki/Amrita
 
 https://en.wikipedia.org/wiki/Deva_(Hinduism)
+
+---------------
+
+https://en.wikipedia.org/wiki/Rakshasa
+
+
+https://en.wikipedia.org/wiki/Yaksha
