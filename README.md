@@ -60,3 +60,9 @@ https://en.wikipedia.org/wiki/Demon
 https://en.wikipedia.org/wiki/Ghosts_in_Chinese_culture
 
 
+-----------
+
+
+### The Ghost May Be Victim Places By Scriptures and Texts And Chants
+
+https://en.wikipedia.org/wiki/Vedas
