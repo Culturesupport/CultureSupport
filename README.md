@@ -28,3 +28,5 @@ https://en.wikipedia.org/wiki/Kalpavriksha
 https://en.wikipedia.org/wiki/Samudra_Manthana
 
 https://en.wikipedia.org/wiki/Amrita
+
+https://en.wikipedia.org/wiki/Deva_(Hinduism)
