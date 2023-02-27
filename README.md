@@ -48,3 +48,9 @@ https://en.wikipedia.org/wiki/Vengeful_ghost
 ### Threat Evil Spirits With Exorsism
 
 https://en.wikipedia.org/wiki/Exorcism 
+
+
+### List of Evil Spirit Sources 
+
+
+https://en.wikipedia.org/wiki/List_of_legendary_creatures_from_Japan
