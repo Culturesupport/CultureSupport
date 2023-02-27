@@ -43,3 +43,6 @@ https://en.wikipedia.org/wiki/Bhoota_(ghost)
 https://en.wikipedia.org/wiki/Vengeful_ghost
 
 
+
+
+https://en.wikipedia.org/wiki/Exorcism
