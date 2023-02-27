@@ -39,3 +39,7 @@ https://en.wikipedia.org/wiki/Rakshasa
 https://en.wikipedia.org/wiki/Yaksha
 
 https://en.wikipedia.org/wiki/Bhoota_(ghost)
+
+https://en.wikipedia.org/wiki/Vengeful_ghost
+
+
