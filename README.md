@@ -73,3 +73,19 @@ https://en.wikipedia.org/wiki/Samaveda
 https://en.wikipedia.org/wiki/Vedic_priesthood
 
 https://en.wikipedia.org/wiki/Yajna
+
+
+
+----------
+
+
+# Become Enlightenment 
+
+https://en.wikipedia.org/wiki/%C4%80tman_(Hinduism)
+
+https://en.wikipedia.org/wiki/Moksha
+
+
+https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra
+
+https://en.wikipedia.org/wiki/Spiritual_practice
