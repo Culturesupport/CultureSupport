@@ -68,3 +68,8 @@ https://en.wikipedia.org/wiki/Ghosts_in_Chinese_culture
 https://en.wikipedia.org/wiki/Vedas
 
 https://en.wikipedia.org/wiki/Samaveda
+
+
+https://en.wikipedia.org/wiki/Vedic_priesthood
+
+https://en.wikipedia.org/wiki/Yajna
