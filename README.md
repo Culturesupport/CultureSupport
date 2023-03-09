@@ -98,3 +98,8 @@ https://poki.com/en/princess
 Make Up Games 
 
 https://poki.com/en/make-up
+
+
+Love Games 
+
+https://poki.com/en/love
