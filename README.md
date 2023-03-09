@@ -26,3 +26,10 @@ https://poki.com/en/g/combat-reloaded
 Online Muliti Player Game
 
 https://poki.com/en/g/repuls-io
+
+
+--------
+
+Racer Car Game
+
+https://poki.com/en/g/super-star-car
