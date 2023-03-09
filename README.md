@@ -112,3 +112,24 @@ https://poki.com/en/love
 Rebels Clash 
 
 https://poki.com/en/g/rebels-clash
+
+
+First Person Shooter 
+
+https://poki.com/en/first-person-shooter
+
+
+Battle Royal 
+
+https://poki.com/en/battle-royale
+
+
+
+War Games 
+
+
+https://kevin.games/war
+
+
+
+
