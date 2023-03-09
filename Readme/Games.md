@@ -54,6 +54,12 @@ https://poki.com/en/g/penalty-shooters-2
 
 # Games For Girls 
 
+Pole Dance Battle
+
+https://kevin.games/pole-dance-battle
+
+
+
 Dress Up Girl Games 
 
 https://poki.com/en/dress-up
