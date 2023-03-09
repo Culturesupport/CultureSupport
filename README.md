@@ -36,6 +36,13 @@ https://poki.com/en/g/super-star-car
 
 -----------
 
+
+Rally Game
+
+https://poki.com/en/g/rally-point-2
+
+---------
+
 Billiard Game
 
 https://poki.com/en/g/pool-club
