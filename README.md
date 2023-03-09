@@ -33,3 +33,11 @@ https://poki.com/en/g/repuls-io
 Racer Car Game
 
 https://poki.com/en/g/super-star-car
+
+-----------
+
+Billiard Game
+
+https://poki.com/en/g/pool-club
+
+
