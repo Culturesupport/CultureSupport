@@ -97,4 +97,4 @@ https://poki.com/en/princess
 
 Make Up Games 
 
-https://poki.com/en/dress-up
+https://poki.com/en/make-up
