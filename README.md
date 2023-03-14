@@ -37,9 +37,9 @@ script.js
 
 | Making      | Webserver      | App Files Name  |
 | ------------- |:-------------:| -----:|
-|  Website      | javascript | script.js |
-|  Website     | html     | index.html |
-| Website | css     |    style.css |
+|  Website      | html | index.html |
+|  Website     | css     | style.css  |
+| Website | javascript    |  script.js |
 
 
 
