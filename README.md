@@ -35,7 +35,7 @@ script.js
 
 
 
-| Making      | Webserver      | App Files Name  |
+| Making Chess Game On :     | Webserver File    | App Files Name  |
 | ------------- |:-------------:| -----:|
 |  Website      | html | index.html |
 |  Website     | css     | style.css  |
