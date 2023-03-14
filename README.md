@@ -28,3 +28,10 @@ drop these inside repository , and make a repository Github Pages url.
 
 then it will become view on github repository link 
 ```
+
+`````
+
+its Possible Preview The Content on Local Website Also. 
+just put the files on local web server alone without any folders
+
+````
