@@ -52,3 +52,9 @@ https://www.gitkraken.com/
 Setting Up Faster Repository Features 
 
 ------
+
+
+
+
+
+Also wisit Repository -> Repository Actions -> To Build Faster
