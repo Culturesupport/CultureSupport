@@ -2,9 +2,9 @@
 
 ----------
 
-# My Github Repository Game im Putted inside Repository
+### My Github Repository Game im Putted inside Repository
 
-# Chess Game : Cool Chess Board Background
+### Chess Game : Cool Chess Board Background
 
 https://culturesupport.github.io/CultureSupport/
 
