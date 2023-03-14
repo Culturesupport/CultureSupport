@@ -14,10 +14,23 @@ https://culturesupport.github.io/CultureSupport/
 
 ### The Game is Made By The Files Uploaded inside Repository 
 
+```
+ index.html 
+ 
+ 
+ ```
 
-- index.html 
-- style.css 
-- script.js
+```
+style.css 
+
+```
+
+```
+
+script.js
+
+```
+
 
 
 
