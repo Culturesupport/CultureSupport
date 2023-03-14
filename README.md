@@ -44,16 +44,16 @@ script.js
 
 
 ```
-its only made by these files uploaded into the repository. 
-drop these inside repository , and make a repository Github Pages url. 
 
-then it will become view on github repository link 
+Only Files in Repository Making Website Game of Chess
 
-```
 
 ```
 
-its Possible Preview The Content on Local Website Also. 
-just put the files on local web server alone without any folders
+
+
+```
+
+Only Files On Webserver Making Game Work 
 
 ```
