@@ -25,5 +25,30 @@ https://www.babylonjs.com/games/
 
                     
  
+Running Github 
 
 
+
+
+https://git-scm.com/downloads/guis
+
+
+
+Use Github Clients
+
+
+
+
+
+----------------
+
+What Github Client We Use 
+
+
+https://www.gitkraken.com/
+
+
+
+Setting Up Faster Repository Features 
+
+------
