@@ -76,3 +76,16 @@ https://github.com/marketplace?type=actions
 [![Top contributors](https://images.repography.com/0/neovim/neovim/recent-activity/d751713988987e9331980363e24189ce_users.svg)](https://github.com/neovim/neovim/graphs/contributors)
 [![Activity map](https://images.repography.com/0/neovim/neovim/recent-activity/d751713988987e9331980363e24189ce_map.svg)](https://github.com/neovim/neovim/commits)
 
+
+
+
+
+
+
+
+
+
+
+## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Structure
+[![Structure](https://images.repography.com/35219084/Culturesupport/CultureSupport/structure/i-ugrEMvaOdwWAKhEXLZm1uYj1S5IWJV6OO9BjoJCAU/6PIyYCjCQufMQ25cE_C1IppnfQ1okln4owAcp6OOu38_table.svg)](https://github.com/Culturesupport/CultureSupport)
+
