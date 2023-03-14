@@ -22,7 +22,7 @@ https://www.babylonjs.com/games/
 ----------
 
 
-
+[![Coverage Status](https://coveralls.io/repos/github/Culturesupport/CultureSupport/badge.svg?branch=main)](https://coveralls.io/github/Culturesupport/CultureSupport?branch=main)
                     
  
 Running Github 
