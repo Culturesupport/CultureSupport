@@ -33,13 +33,13 @@ script.js
 
 
 
-Colons can be used to align columns.
 
-| Tables        | Webside           | App  |
+
+| Making      | Webserver      | App Files Name  |
 | ------------- |:-------------:| -----:|
-|  Website      | javascript | N/A |
-|  Website     | html     | N/A |
-| Website | css     |    N/A |
+|  Website      | javascript | script.js |
+|  Website     | html     | index.html |
+| Website | css     |    style.css |
 
 
 
